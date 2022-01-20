@@ -29,7 +29,9 @@ Run Robot_Transport in visual studios IDE
 Running via post man
 
 type in the http://localhost:5001/api/robots/closest
+
 set the header Content-Type to application/json
+
 Add json payload to the body
 
 ![image](https://user-images.githubusercontent.com/22671656/150238150-f1fd2eea-c692-4802-a62f-cb41494607bc.png)
