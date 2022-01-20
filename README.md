@@ -5,19 +5,24 @@ Based on proximity and battery power a robot is chosen to o to packages
 
 **API accepts POST and returns data per requirements**
 
+
 Payload
 ![image](https://user-images.githubusercontent.com/22671656/150238521-9475c1f7-5459-420e-83da-ba83bd8983a2.png)
 Response
 ![image](https://user-images.githubusercontent.com/22671656/150238582-649c6f3a-d250-423d-b8f9-b66cf3dadc0e.png)
 
 
+
 **Repo README has information about what you'd do next, per above requirements**
+
 I would see if its possible to  optimize the function FindClosetBot.
 
 
 **Repo README has instructions for running and testing the API**
 
+
 Run Robot_Transport in visual studios IDE
+
 ![image](https://user-images.githubusercontent.com/22671656/150238205-698f9b86-113c-4bca-8b2e-dae35ffcf42d.png)
 
 
