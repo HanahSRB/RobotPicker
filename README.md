@@ -26,7 +26,7 @@ Run Robot_Transport in visual studios IDE
 ![image](https://user-images.githubusercontent.com/22671656/150238205-698f9b86-113c-4bca-8b2e-dae35ffcf42d.png)
 
 
-Running via post man
+**Running via post man**
 
 type in the http://localhost:5001/api/robots/closest
 
@@ -39,7 +39,12 @@ Add json payload to the body
 ![image](https://user-images.githubusercontent.com/22671656/150239061-82beb92b-fa51-4569-b466-4df528f0ca29.png)
 
 
-Running via swagger
+**Running via swagger**
+
+Click the listed url
+Click try out
+Click exectue, json will be included and can be modified.
+
 ![image](https://user-images.githubusercontent.com/22671656/150238305-d5eb2f43-28a5-43bb-9f0c-28d28d727a94.png)
 
 ![image](https://user-images.githubusercontent.com/22671656/150238356-2b8a0500-945a-4d69-9bcc-e6e826bfddc4.png)
